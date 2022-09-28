@@ -23,7 +23,6 @@ print("{:.2f}".format(n))
 
 ```
 ## Output:
-Program to find 2-norm of a matrix.
 ![output](/normmatrix.png)
 
 ## Result
