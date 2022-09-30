@@ -23,6 +23,7 @@ print("{:.2f}".format(n))
 
 ```
 ## Output:
+![output](/input.jpg)
 ![output](/normmatrix.png)
 
 ## Result
